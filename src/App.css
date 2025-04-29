@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.pro-photo {
+  width: 520px;
+  height: 510px;
+}
+.mycolor {
+  background-color: #b7ff80;
+}
+.IoT {
+  color: #b7ff80;
+}
